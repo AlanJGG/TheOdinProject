@@ -1,0 +1,16 @@
+body{
+    background-color: burlywood;
+}
+
+.title{
+    color: red;
+    font-size: large;
+}
+
+.text{
+    color: blue;
+}
+
+.text2{
+    color: brown;
+}
