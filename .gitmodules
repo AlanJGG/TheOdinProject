@@ -1,0 +1,3 @@
+[submodule "002_Recipes"]
+	path = 002_Recipes
+	url = https://github.com/AlanJGG/Recipes.git
