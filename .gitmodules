@@ -1,3 +1,6 @@
 [submodule "002_Recipes"]
 	path = 002_Recipes
 	url = https://github.com/AlanJGG/Recipes.git
+[submodule "000_Javascript-exercises"]
+	path = 000_Javascript-exercises
+	url = https://github.com/AlanJGG/Javascript-exercises.git
